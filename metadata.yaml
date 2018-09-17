@@ -1,6 +1,9 @@
 _repo: Adventures-of-a-Telegraph-Boy-or-Number-91_52616
-_version: 0.1.0
+_version: 0.2.0
 alternative_title: Adventures of a Telegraph Boy; or, "Number Ninety-One"
+covers:
+- cover_type: archival
+  image_path: 52616-h/images/cover.jpg
 creator:
   author:
     agent_name: Alger, Horatio, Jr.
@@ -16,6 +19,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/168
     wikipedia: http://en.wikipedia.org/wiki/Horatio_Alger,_Jr.
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/52616#Adventures-of-a-Telegraph-Boy-or-Number-91
 gutenberg_issued: '2016-07-22'
 gutenberg_type: Text
 identifiers:
